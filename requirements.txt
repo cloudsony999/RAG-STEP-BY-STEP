@@ -1,0 +1,14 @@
+groq>=0.31.0
+sentence-transformers>=5.0.0
+faiss-cpu>=1.11.0
+pypdf>=6.0.0
+numpy>=2.3.0
+scikit-learn>=1.7.0
+torch>=2.7.0
+transformers>=4.53.0
+huggingface-hub>=0.33.0
+tokenizers>=0.21.0
+safetensors>=0.5.0
+streamlit>=1.47.0
+python-dotenv>=1.1.0
+
